@@ -1,1 +1,1 @@
-"# Pyramid2000_Haskell" 
+# pyramid2000
